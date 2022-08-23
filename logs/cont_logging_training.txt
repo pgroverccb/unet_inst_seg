@@ -1,0 +1,20 @@
+Processing Inputs
+Loaded UNet3D
+Training Network
+Epoch : 1| Batch 1| Mask : 0.87| Contour : 0.954| Distance Map : 2.904| Complete Loss : 4.727
+Epoch : 1| Batch 2| Mask : 0.964| Contour : 0.981| Distance Map : 5.531| Complete Loss : 7.476
+Epoch : 1| Batch 3| Mask : 0.955| Contour : 0.985| Distance Map : 1.367| Complete Loss : 3.307
+Epoch : 1| Batch 4| Mask : 0.948| Contour : 0.982| Distance Map : 1.493| Complete Loss : 3.423
+Epoch : 1| Batch 5| Mask : 0.932| Contour : 0.979| Distance Map : 0.41| Complete Loss : 2.321
+Epoch : 1| Batch 6| Mask : 0.87| Contour : 0.935| Distance Map : 0.613| Complete Loss : 2.417
+Epoch : 1| Batch 7| Mask : 0.869| Contour : 0.949| Distance Map : 0.336| Complete Loss : 2.153
+Epoch : 1| Batch 8| Mask : 0.983| Contour : 0.989| Distance Map : 0.362| Complete Loss : 2.334
+Epoch : 1| Batch 9| Mask : 0.787| Contour : 0.929| Distance Map : 0.207| Complete Loss : 1.923
+Epoch : 1| Batch 10| Mask : 0.848| Contour : 0.944| Distance Map : 0.196| Complete Loss : 1.988
+Epoch : 1| Batch 11| Mask : 0.977| Contour : 0.987| Distance Map : 0.103| Complete Loss : 2.068
+Epoch : 1| Batch 12| Mask : 0.771| Contour : 0.918| Distance Map : 0.251| Complete Loss : 1.94
+Epoch : 1| Batch 13| Mask : 0.841| Contour : 0.937| Distance Map : 0.13| Complete Loss : 1.908
+Epoch : 1| Batch 14| Mask : 0.912| Contour : 0.976| Distance Map : 0.128| Complete Loss : 2.016
+Epoch : 1| Batch 15| Mask : 0.735| Contour : 0.916| Distance Map : 0.115| Complete Loss : 1.766
+Epoch : 1| Batch 16| Mask : 0.857| Contour : 0.974| Distance Map : 0.453| Complete Loss : 2.283
+Epoch : 1| Batch 17| Mask : 0.738| Contour : 0.909| Distance Map : 0.144| Complete Loss : 1.791
